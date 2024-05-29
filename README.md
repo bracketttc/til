@@ -10,3 +10,4 @@ Inspired by Cory Doctorow's [Memex Method](https://pluralistic.net/2021/05/09/th
   - May
     - 21 [`ninja -d explain` and CMake configuration triggers](./2024/05/21/README.md)
     - 24 [Lock Miter](./2024/05/24/README.md)
+    - 28 [ELF {con,de}structors and failing to sync in Artifactory](./2024/05/28/README.md)
